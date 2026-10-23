@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="640" viewBox="0 0 1100 640" role="img" aria-labelledby="title desc">
+<title id="title">地层接触关系的剖面比较</title><desc id="desc">比较整合、平行不整合、角度不整合和侵入接触，突出沉积连续性、侵蚀间断、上下地层产状和切割关系。</desc>
+<defs><style>text{font-family:"Noto Sans CJK SC","Microsoft YaHei",sans-serif;fill:#183044}.h{font-size:24px;font-weight:700}.t{font-size:19px}.s{font-size:15px;fill:#526474}</style></defs>
+<rect width="1100" height="640" fill="#fff" /><text class="h" x="550" y="40" text-anchor="middle">地层接触关系：看连续性、产状和切割</text>
+
+<g transform="translate(35 70)"><rect width="500" height="220" rx="12" fill="#f8fafb" stroke="#c5d2dc" /><text class="h" x="250" y="35" text-anchor="middle">整合接触</text>
+<path d="M45 95 H455 V145 H45Z" fill="#d9e5ef" stroke="#526d82" stroke-width="2" /><path d="M45 145 H455 V195 H45Z" fill="#e7cf9b" stroke="#526d82" stroke-width="2" /><text class="s" x="250" y="215" text-anchor="middle">上下层沉积过程基本连续，产状协调</text></g>
+<g transform="translate(565 70)"><rect width="500" height="220" rx="12" fill="#f8fafb" stroke="#c5d2dc" /><text class="h" x="250" y="35" text-anchor="middle">平行不整合（假整合）</text>
+<path d="M45 95 H455 V145 H45Z" fill="#d9e5ef" stroke="#526d82" stroke-width="2" /><path d="M45 145 H455 V151 H45Z" fill="#b45545" /><path d="M45 151 H455 V195 H45Z" fill="#e7cf9b" stroke="#526d82" stroke-width="2" /><text class="s" x="250" y="215" text-anchor="middle">层面近于平行；红线表示间断/侵蚀面</text></g>
+<g transform="translate(35 320)"><rect width="500" height="250" rx="12" fill="#f8fafb" stroke="#c5d2dc" /><text class="h" x="250" y="35" text-anchor="middle">角度不整合</text>
+<path d="M45 155 L455 110 L455 175 L45 220Z" fill="#d9e5ef" stroke="#526d82" stroke-width="2" /><path d="M45 148 L455 103" stroke="#b45545" stroke-width="5" stroke-dasharray="10 5" /><path d="M45 85 H455 V103 L45 148Z" fill="#e7cf9b" stroke="#526d82" stroke-width="2" /><text class="s" x="250" y="238" text-anchor="middle">下伏层变形并受剥蚀，上覆层以不同产状沉积</text></g>
+<g transform="translate(565 320)"><rect width="500" height="250" rx="12" fill="#f8fafb" stroke="#c5d2dc" /><text class="h" x="250" y="35" text-anchor="middle">侵入接触</text>
+<path d="M45 90 H455 V135 H45Z" fill="#e7cf9b" stroke="#526d82" stroke-width="2" /><path d="M45 135 H455 V180 H45Z" fill="#d9e5ef" stroke="#526d82" stroke-width="2" /><path d="M195 220 L285 60 L330 65 L240 225Z" fill="#b99ac8" stroke="#715581" stroke-width="2" /><path d="M185 222 L276 59 M339 68 L250 230" stroke="#c57c50" stroke-width="4" stroke-dasharray="6 5" /><text class="s" x="250" y="238" text-anchor="middle">岩脉切穿围岩；接触变质可作辅助证据</text></g>
+<text class="s" x="550" y="610" text-anchor="middle">相对年代：被切割者早于侵入体；不整合上覆层晚于剥蚀面。示意剖面非比例图。</text>
+</svg>
